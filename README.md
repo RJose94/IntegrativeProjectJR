@@ -1,0 +1,1 @@
+Bienvenidos A "Piedra, papel o tijeras" se juega con el ordenador. Los jugadores debe decidir: piedra, papel o tijera, justo al acabar la frase debe insertar su decision en el cuadro de texto y verán quien gana. Si los dos jugadores muestran la misma figura hay empate, tablas, no gana nadie.
